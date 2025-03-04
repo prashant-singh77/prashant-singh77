@@ -1,14 +1,14 @@
 # Hi there, I'm Prashant singh 👋
 
 ## 🚀 About Me
--  1st year student of narula institue of technology
--  studying btech(data science)
-- 🔭 I’m currently working on 3d websites
-- 🌱 I’m currently learning Technologies/Skills
-- 💬 Ask me about devlopment
-- 📫 How to reach me: prashant77705@gmail.com
-- 😄 Pronouns: Developer
-- ⚡ Fun fact: lazy but do smart work
+-  btech  student of narula institue of technology.
+-  studying btech(data science).
+- 🔭 I’m currently working on 3d websites.
+- 🌱 I’m currently learning Technologies/Skills.
+- 💬 Ask me about devlopment.
+- 📫 How to reach me: prashant77705@gmail.com.
+- 😄 Pronouns: Developer.
+- ⚡ Fun fact: lazy but do smart work.
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
