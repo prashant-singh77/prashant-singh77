@@ -3,11 +3,11 @@
 ## 🚀 About Me
 -  btech  student of narula institue of technology.
 -  studying btech(data science).
-- 🔭 I’m currently working on 3d websites.
+- 🔭 I’m currently working on data analytical projects.
 - 🌱 I’m currently learning Technologies/Skills.
 - 💬 Ask me about devlopment.
 - 📫 How to reach me: prashant77705@gmail.com.
-- 😄 Pronouns: Developer.
+- 😄 Pronouns: Polymorph
 - ⚡ Fun fact: lazy but do smart work.
 
 ## 🛠️ Tech Stack
