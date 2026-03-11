@@ -32,10 +32,19 @@
 ### 🧰 Tools
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashant-singh77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant-singh77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=prashant-singh77&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-singh77&layout=compact&theme=dracula" height="160"/>
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prashant-singh77&theme=dracula"/>
+
 </div>
 
 ###
