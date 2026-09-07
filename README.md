@@ -1,7 +1,7 @@
 # Hi there, I'm Prashant singh 👋
 
 ## 🚀 About Me
--  btech  student of narula institue of technology.
+-  btech  student of NIT.
 -  studying btech(data science).
 - 🔭 I’m currently working on data analytical projects.
 - 🌱 I’m currently learning Technologies/Skills.
